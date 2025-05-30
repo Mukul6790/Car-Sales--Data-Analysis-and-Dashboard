@@ -29,7 +29,7 @@ Dashboard Snapshots
 
 Overview Dashboard- https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Dashboard%20Screenshot%201.png
  
- Details Dashboard
+ Details Dashboard- https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Dashboard%20Screenshot%202.png
  
  Key Insights
 
