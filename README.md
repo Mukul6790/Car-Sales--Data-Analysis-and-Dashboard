@@ -27,7 +27,7 @@ Various charts and visuals were used including line charts for trends, pie chart
 
 Dashboard Snapshots
 
-Overview Dashboard
+Overview Dashboard- https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Dashboard%20Screenshot%201.png
  
  Details Dashboard
  
