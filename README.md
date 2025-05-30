@@ -1,54 +1,83 @@
-Car Sales Dashboard Project using Power BI
+# Car Sales Dashboard using Power BI
 
-Objective
+## Objective
 
 The goal of this project was to analyze car sales data to track total revenue, units sold, dealer performance, customer preferences by region, and vehicle styles.
 
-Dataset Source- https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales.xlsx
+*Dataset Source*: [Car Sales Dataset (Excel)](https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales.xlsx)
 
-Process
+---
 
-1.	Data Collection and Cleaning:
-The dataset was imported from an Excel file. It contained fields like car ID, sales date, dealer name, customer name, car model, total sale amount, color, engine type, and transmission. Power Query was used to clean and structure the data by removing duplicates, handling null values, and converting data types.
+## Process
 
-2.	Data Modelling:
-	A calendar table was created to support time-based analysis. Relationships were established between the main dataset and the date table to allow for accurate trend analysis.
+### 1. Data Collection and Cleaning
+- Imported the dataset from an Excel file.
+- Fields included: car ID, sales date, dealer name, customer name, car model, total sale amount, color, engine type, and transmission.
+- Used Power Query to:
+  - Remove duplicates
+  - Handle null values
+  - Convert and standardize data types
 
-4.	DAX Measures:
-Key DAX measures were created for calculating metrics like year-to-date sales, monthly total sales, average selling price, cars sold, and percent change. Conditional formatting was used to highlight trends.
+### 2. Data Modelling
+- Created a calendar table for time-based analysis.
+- Established relationships between the main dataset and the calendar table for accurate trend reporting.
 
-5.	Dashboard Design:
-Two dashboards were created.Overview Dashboard for high-level trends and Details Dashboard for transaction-level insights.Filters for body style, transmission, engine type, and dealer name were added to allow for interactive exploration.
+### 3. DAX Measures
+- Defined custom measures to calculate:
+  - Year-to-date sales
+  - Monthly total sales
+  - Average selling price
+  - Total cars sold
+  - Percentage changes
+- Applied conditional formatting to highlight trends.
 
+### 4. Dashboard Design
+- Built two dashboards:
+  - *Overview Dashboard*: Summarized high-level trends
+  - *Details Dashboard*: Focused on transaction-level analysis
+- Added filters for:
+  - Body style
+  - Transmission type
+  - Engine type
+  - Dealer name
 
+### 5. Visual Elements
+- Used the following visuals in Power BI:
+  - Line charts for trends
+  - Pie charts for body style and color preferences
+  - Maps for regional sales
+  - Bar charts for brand-wise performance
+  - Slicers and KPI cards for interactivity
 
-5.	Visual Elements Used
-Various charts and visuals were used including line charts for trends, pie charts for body style and color preferences, maps for regional sales, and bar charts for company-wise breakdowns. Slicers and KPIs were included for dynamic filtering.
+---
 
-Dashboard Snapshots
+## Dashboard Snapshots
 
-Overview Dashboard- https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Dashboard%20Screenshot%201.png
- 
- Details Dashboard- https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Dashboard%20Screenshot%202.png
- 
- Key Insights
+- *Overview Dashboard*:  
+  ![Overview](https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Dashboard%20Screenshot%201.png)
 
-•	Year-to-date total sales exceeded 370 million dollars with over 13 thousand cars sold.
+- *Details Dashboard*:  
+  ![Details](https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Dashboard%20Screenshot%202.png)
 
-•	SUV and Sedan were the most preferred body styles.
+---
 
-•	Pale white and black were the most popular car colors among customers.
+## Key Insights
 
-•	Ford and Chevrolet were top-performing brands in terms of both total cars sold and total revenue.
+- Year-to-date sales exceeded *$370 million* with over *13,000 cars sold*.
+- *SUV* and *Sedan* were the most preferred body styles.
+- *Pale white* and *black* were the most popular colors.
+- *Ford* and *Chevrolet* were the top-performing brands.
+- Regions like *Scottsdale* and *Aurora* had the highest sales.
+- Dealer *Buddy Storbeck’s Diesel Service* recorded one of the highest individual sale values.
+- Customer preferences by color, region, and body style were effectively visualized through segmentation.
 
-•	The highest sales volume came from regions like Scottsdale and Aurora.
+---
 
-•	The dealer “Buddy Storbeck’s Diesel Service” had one of the top single sale values in the dataset.
+## Conclusion
 
-•	Visual segmentation by color, body style, and region helped identify customer buying patterns effectively.
+This project demonstrates my ability to:
+- Clean and model complex datasets
+- Create calculated measures using DAX
+- Design interactive dashboards in Power BI
 
-Conclusion
-
-This project showcases the ability to clean, model, and analyze large datasets using Power BI. By building interactive dashboards, I was able to extract key business insights that can help decision-makers understand sales performance and customer preferences. This project is a strong representation of my data analysis and visualization skills using industry-standard tools.
-
-
+It highlights how data visualization can help extract meaningful business insights, supporting better decision-making based on customer behavior and sales trends.
