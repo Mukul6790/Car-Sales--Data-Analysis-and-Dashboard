@@ -3,7 +3,8 @@ Car Sales Dashboard Project using Power BI
 Objective
 
 The goal of this project was to analyze car sales data to track total revenue, units sold, dealer performance, customer preferences by region, and vehicle styles.
-Dataset Source
+
+Dataset Source- 
 
 Process
 
