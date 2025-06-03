@@ -53,11 +53,11 @@ The goal of this project was to analyze car sales data to track total revenue, u
 
 ## Dashboard Snapshots
 
-- *Overview Dashboard*:  
-  ![Overview](https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Dashboard%20Screenshot%201.png)
+- *Overview Dashboard*:  ![Details](https://github.com/mukul0030/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Project%20Screenshot%201.png)
+
 
 - *Details Dashboard*:  
-  ![Details](https://github.com/Mukul6790/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Dashboard%20Screenshot%202.png)
+  ![Details](https://github.com/mukul0030/Car-Sales--Data-Analysis-and-Dashboard/blob/main/Car%20Sales%20Project%20Screenshot%202.png)
 
 ---
 
